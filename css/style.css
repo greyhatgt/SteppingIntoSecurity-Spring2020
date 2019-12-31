@@ -5,6 +5,7 @@ body {
   font-family: 'PT Mono', Arial, Helvetica, sans-serif;
 }
 
-@media (min-width: 981px) { body { padding-top: 65px; } }
-@media (max-width: 940px) { body { padding-top: 100px; } }
-@media (max-width: 530px) { body { padding-top: 150px; } }
+
+
+.navbar-dark { margin : 0 !important; }
+
